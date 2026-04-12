@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zeshanalikhan.github.io/paintz-app-guide-site/sitemap.xml
